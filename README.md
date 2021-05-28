@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 For more details, you can visit my [HomePage](wangxinyu0922.github.io).
 
 [![Xinyu Wang's github stats](https://github-readme-stats.vercel.app/api?username=wangxinyu0922&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/wangxinyu0922)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyu0922&layout=compact)](https://github.com/wangxinyu0922)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyu0922&theme=tokyonight&layout=compact)](https://github.com/wangxinyu0922)
