@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a first-year Ph.D. student in School of Information Science and Technology, ShanghaiTech University, advised by Prof. [Kewei Tu](http://faculty.sist.shanghaitech.edu.cn/faculty/tukw/).
 - 🌱 My researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). 
-- 📫 For more details, you can visit my [HomePage](wangxinyu0922.github.io).
+- 📫 For more details, you can visit my [HomePage](https://wangxinyu0922.github.io).
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/ACE)
