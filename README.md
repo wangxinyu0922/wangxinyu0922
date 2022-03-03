@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/ACE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/KB-NER)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=KB-NER&theme=vue)](https://github.com/Alibaba-NLP/KB-NER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=MultilangStructureKD&theme=vue)](https://github.com/Alibaba-NLP/MultilangStructureKD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=CLNER&theme=vue)](https://github.com/Alibaba-NLP/CLNER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=StructuralKD&theme=vue)](https://github.com/Alibaba-NLP/StructuralKD)
