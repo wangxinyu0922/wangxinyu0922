@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 Currently， my researches are mainly focused on **Retrieval-Augmented Generation (RAG)**, including RAG for textual LLMs and multi-modal LLMs.
 - 🌱 Before I received my Ph.D., my researches are mainly focused on **Structured Prediction** ([Syntactic](https://wangxinyu0922.github.io/publication/aacl-2020-second)/[Semantic](https://wangxinyu0922.github.io/publication/acl-2019-second) Dependency Parsing, [Sequence Labeling](https://wangxinyu0922.github.io/publication/emnlp-2020-ain) (such as [Named Entity Recognition](https://wangxinyu0922.github.io/publication/acl-2021-retrieval)), [Neural Architecture Search](https://wangxinyu0922.github.io/publication/acl-2021-ace) in structured prediction), [**Knowledge Distillation**](https://wangxinyu0922.github.io/publication/acl-2021-structural) and [**Multilingual NLP**](https://wangxinyu0922.github.io/publication/acl-2020-structure). I visited [Prof. Lu Wei](https://istd.sutd.edu.sg/people/faculty/lu-wei)'s lab as a visiting research fellow at [SUTD](https://istd.sutd.edu.sg/).
 - 📫 For more details, you can visit my [HomePage](https://wangxinyu0922.github.io).
-- 📫 I am currently hiring self-motivated researchers and interns in Hangzhou. Please feel free to contact me with your resume. [tomas.wxy\@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
+- 📫 I am currently **hiring** self-motivated researchers and interns in Hangzhou. Please feel free to contact me with your resume. [tomas.wxy\@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/ACE)
