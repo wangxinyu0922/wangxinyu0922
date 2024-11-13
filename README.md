@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 I am currently **hiring** self-motivated researchers and interns in Hangzhou. Please feel free to contact me with your resume. [tomas.wxy\@alibaba-inc.com](mailto:tomas.wxy@alibaba-inc.com?subject=Test)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/ACE)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=ACE&theme=vue)](https://github.com/Alibaba-NLP/ACE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=KB-NER&theme=vue)](https://github.com/Alibaba-NLP/KB-NER)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=MultilangStructureKD&theme=vue)](https://github.com/Alibaba-NLP/MultilangStructureKD)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=CLNER&theme=vue)](https://github.com/Alibaba-NLP/CLNER)
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alibaba-NLP&repo=AIN&theme=vue)](https://github.com/Alibaba-NLP/AIN)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangxinyu0922&repo=Second_Order_SDP&theme=vue)](https://github.com/wangxinyu0922/Second_Order_SDP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangxinyu0922&repo=Second_Order_Parsing&theme=vue)](https://github.com/wangxinyu0922/Second_Order_Parsing)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebastianruder&repo=NLP-progress&theme=vue)](https://github.com/sebastianruder/NLP-progress)
-[![Xinyu Wang's github stats](https://github-readme-stats.vercel.app/api?username=wangxinyu0922&hide=stars,prs&count_private=true&theme=vue&show_icons=true)](https://github.com/wangxinyu0922)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sebastianruder&repo=NLP-progress&theme=vue)](https://github.com/sebastianruder/NLP-progress) -->
+[![Xinyu Wang's github stats](https://github-readme-stats.vercel.app/api?username=wangxinyu0922&hide=stars,prs&count_private=true&theme=vue&show_icons=true)](https://github.com/wangxinyu0922) 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangxinyu0922&theme=tokyonight&layout=compact)](https://github.com/wangxinyu0922) -->
